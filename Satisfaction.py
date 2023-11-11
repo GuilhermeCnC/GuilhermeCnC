@@ -1,4 +1,5 @@
 '''MÉTODO 5 Q`s = analise o problema e descubra:
+#Atuaizando o codigo
 1. Quais são os dados de entradas necessários ? fazer perguntas de satisfação dos nossos Funcionários
 
 2. O que devo fazer com estes dados ? Armazenar as respostas e elaborar um grafico simples, visualizar os campos a serem melhorados
